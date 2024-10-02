@@ -1,2 +1,4 @@
 /sitemap_index.xml /sitemap/sitemap_index.xml 301
+/:filename.txt.gz /sitemap/:filename.txt.gz 301
+
 /:lang/:title  /?:lang/:title  301
